@@ -1,0 +1,26 @@
+# Entorno virtual (si usas uno)
+venv/
+.env
+*.env
+
+# Base de datos local y simulada
+*.db
+
+# PyInstaller build files
+build/
+dist/
+__pycache__/
+*.spec
+
+# Archivos temporales de Python
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Qt Designer (si los usas)
+*.ui~
